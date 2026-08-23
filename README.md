@@ -181,17 +181,6 @@ Leading development of an AI-powered personalized learning platform as part of a
 
 <br/>
 
-### [Job Title] | [Company Name]
-**[Location]** | *[Date Range]*
-
-[Add a professional description of your role and responsibilities here.]
-
-- [Scope of work — responsibility one]
-- [Scope of work — responsibility two]
-- [Scope of work — responsibility three]
-
-`[Skill]` `[Skill]` `[Skill]` `[Skill]`
-
 ---
 
 ## 🏆 Achievements
@@ -201,9 +190,6 @@ Leading development of an AI-powered personalized learning platform as part of a
 | Recognition | Details |
 |---|---|
 | TryHackMe — Pre Security Path | Completed foundational cybersecurity modules covering the CIA Triad and Offensive vs. Defensive Security |
-| [Hackathon / Competition Name] | [Result and description] |
-| [Award / Recognition Name] | [Brief description] |
-| [Academic Distinction] | [Brief description] |
 
 </div>
 
