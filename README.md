@@ -145,25 +145,6 @@ The analysis combined static scanning via VirusTotal with live traffic inspectio
 
 </details>
 
-<details>
-<summary><b>💻 [Project Name] — [One-line Description]</b></summary>
-<br/>
-
-[Add a short professional description of the project here.]
-
-| Aspect | Details |
-|---|---|
-| Stack | [Tech Stack] |
-| Scale | [Scale Details] |
-| Performance | [Performance Metrics] |
-| Security | [Security Measures] |
-| Impact | [Impact / Outcome] |
-| Repository | [View Repository](https://github.com/TinkuDubey1908/your-repo) |
-
-[Add extended project explanation here.]
-
-</details>
-
 ---
 
 ## 💼 Experience
