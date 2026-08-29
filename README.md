@@ -188,7 +188,7 @@ Leading development of an AI-powered personalized learning platform as part of a
 
 **NPTEL**
 
-<img src="https://img.shields.io/badge/NPTEL-%5BCourse%20Name%5D-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://onlinecourses.nptel.ac.in/e-learning/course/noc26_cs102?unitId=41"/>
 
 **Cisco**
 
