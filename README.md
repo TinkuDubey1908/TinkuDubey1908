@@ -206,7 +206,7 @@ Leading development of an AI-powered personalized learning platform as part of a
 <a href="https://www.geeksforgeeks.org/user/TinkuDubey1908">
   <img src="https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
-<a href="https://www.hackerrank.com/TinkuDubey1908">
+<a href="https://www.hackerrank.com/sbu2402078">
   <img src="https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 <a href="https://www.codechef.com/users/TinkuDubey1908">
